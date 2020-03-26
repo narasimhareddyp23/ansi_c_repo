@@ -2,14 +2,6 @@
 
 
 
-
-//int a
-//char ch
-
-//int a[2]
-
-
-
 int main()
 {
 
